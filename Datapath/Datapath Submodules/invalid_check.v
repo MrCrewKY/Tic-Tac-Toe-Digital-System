@@ -1,8 +1,8 @@
 module invalid_check(p1,p2,s);
-	 input [0:8] p1,p2;
-    output reg s;
+	input [0:8] p1,p2;
+	output reg s;
 
-    always @* begin
+	always @* begin
 			if(p1[0]==1'b1 && p2[0]==1'b1) s = 1'b1; //invalid input in position [0]
 			else if(p1[1]==1'b1 && p2[1]==1'b1) s = 1'b1; //invalid input in position [1]
 			else if(p1[2]==1'b1 && p2[2]==1'b1) s = 1'b1; //invalid input in position [2]
