@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-Microprocessor
-Here lies the full documentation of my Tic Tac Toe Microprocessor project coded in Verilog.
+**Here lies the full documentation of my Tic Tac Toe Microprocessor project coded in Verilog.**
 
-This is my final project for Digital Systems Design class. 
+**This is my final project for Digital Systems Design class.**
 
 **1. Black box Conceptualization:**
 
@@ -35,4 +35,5 @@ The microprocessor was tested for its functionality by writing a testbench.
 
 
 **6. FSM Timing Analysis**
+
 After that, timing analysis on the FSM is conducted to determine the fastest clock frequency for the FSM and ensure no hold time violation.
