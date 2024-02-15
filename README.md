@@ -1,11 +1,11 @@
-# Tic-Tac-Toe-Microprocessor
-**Here lies the full documentation of my Tic Tac Toe Microprocessor project coded in Verilog.**
+# Tic-Tac-Toe-Digital-System
+**Here lies the full documentation of my Tic Tac Toe Digital System project coded in Verilog.**
 
 **This is my final project for Digital Systems Design class.**
 
 **1. Black box Conceptualization:**
 
-A simple black box was first designed for this microcontroller with all its inputs and outputs listed.
+A simple black box was first designed for this digital system with all its inputs and outputs listed.
 
 
 **2. Datapath Design:**   
@@ -31,7 +31,7 @@ The hardware peripherals were then added by downloading the Verilog modules into
 
 **5. Testbench:**
     
-The microprocessor was tested for its functionality by writing a testbench.
+The system was tested for its functionality by writing a testbench.
 
 
 **6. FSM Timing Analysis**
